@@ -42,3 +42,4 @@ when "stay"
 when "fight"
   puts "The New Age vendors don't appreciate your critique of capitalism and exploitation of Eastern cultures. In fact, nobody cares. To them, you're just bad vibes and an idiotic drunk. You wind up passing out in your car."
 end
+Rad was here
